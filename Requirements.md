@@ -30,4 +30,4 @@ The system shall restrict command issuance exclusively to authenticated Mission 
 The system shall maintain core operations and handle temporary communication dropouts caused by signal delay or atmospheric interference without loss of state.
 
 ###NFR-04
-The system shall support simultaneous communication links and data handling across multiple active rovers.
+The system shall support at least 20 simultaneously connected rovers.
